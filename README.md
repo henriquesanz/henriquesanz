@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Henrique Paiva
 - I live in São Paulo, Brazil :brazil:.
-- Currently, I work as a Computer Instructor.
+- Currently, Graduating in Analisys and System Development.
 - I study Java outside of work and develop individual projects with the aim of entering the job market.
 ## Connect with me:
 <a href="https://linktr.ee/henriquepaiva/" target="_blank">
@@ -15,6 +15,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="pr" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="pr" width="50" height="50" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="pr" width="50" height="50" style="max-width:100%;"></img>
+
+![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquesanz&theme=dark&show_icons=true)
+
 
 
 
