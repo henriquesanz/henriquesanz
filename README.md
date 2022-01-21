@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Henrique Paiva
 - I live in São Paulo, Brazil :brazil:.
-- Currently, Graduating in Analisys and System Development.
+- Currently, Graduating in Software Engineering.
 - I study Java outside of work and develop individual projects with the aim of entering the job market.
 ## Connect with me:
 <a href="https://linktr.ee/henriquepaiva/" target="_blank">
