@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I'm Henrique Paiva
 - I live in São Paulo, Brazil :brazil:.
-- Currently, Graduating in Software Engineering.
-- I study Java outside of work and develop individual projects with the aim of entering the job market.
+- Currently, Working as a Software Developer at IBM.
+- Java Application Developer | Cloud Native Integration | Azure & RedHat Certified
 ## Connect with me:
 <a href="https://linktr.ee/henriquepaiva/" target="_blank">
 <img align="center" alt="linkedin" height="30" width="40" src="https://css.gg/link.svg" style="max-width:100%;">
