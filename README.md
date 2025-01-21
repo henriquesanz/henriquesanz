@@ -1,7 +1,7 @@
 ### Hi there 👋
-## I'm Henrique Paiva
+## I'm José Henrique Paiva
 - I live in São Paulo, Brazil :brazil:.
-- Currently, Working as a Software Developer at IBM.
+- Currently, Working as a Senior Software Developer at Accenture.
 - Java Application Developer | Cloud Native Integration | Azure & RedHat Certified
 ## Connect with me:
 <a href="https://linktr.ee/henriquepaiva/" target="_blank">
